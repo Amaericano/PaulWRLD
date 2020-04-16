@@ -1036,7 +1036,7 @@ img {
   line-height: 24px;
   color: #ffffff;
   padding-right: 20px;
-  background: url(/images/Likes.png) no-repeat right;
+  background: url(../images/heart-ico.svg) no-repeat right;
   margin-right: 14px;
 }
 .top__card-comment {
@@ -1046,7 +1046,7 @@ img {
   line-height: 24px;
   color: #ffffff;
   padding-right: 23px;
-  background: url(/images/msg.png) no-repeat right;
+  background: url(../images/comment-ico.svg) no-repeat right;
 }
 .top__card-stat {
   display: -webkit-box;
